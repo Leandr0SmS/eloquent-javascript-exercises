@@ -24,7 +24,7 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
       1.[Minimum](./functions/min.js)
 
       2.[Recursion](./functions/iseven.js)
-      
+
       3.[CountBs](./functions/countBs.js)
 
 ## License
@@ -48,4 +48,5 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [MDN](https://developer.mozilla.org/en-US/)
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [Codecademy Curriculum Markdown Style Guide](https://curriculum-documentation.codecademy.com/content-guidelines/markdown-style-guide/)
 
