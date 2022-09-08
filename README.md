@@ -9,9 +9,11 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 ## Table of Contents
 
 1- [Values, Types, and Operators](./)
-2- [Program Structure](./program-structure/fizzbuzz.js)
+2- [Program Structure](./program-structure/loop-triangle.js)
     1-[chezz](./program-structure/chezz.js)
     2-[fizzbuzz](./program-structure/fizzbuzz.js)
+    3-[hashtag](./program-structure/hashtag.js)
+    4-[loop-triangle](./program-structure/loop-triangle.js)
 3- [Functions]()
 4- [Data Structures: Objects and Arrays]()
 
