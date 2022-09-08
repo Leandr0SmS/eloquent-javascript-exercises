@@ -10,22 +10,26 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
 1. Program Structure:
       
-      1.[chezz](./program-structure/chezz.js)
+      1.[Chezz](./program-structure/chezz.js)
 
-      2.[fizzbuzz](./program-structure/fizzbuzz.js)
+      2.[FizzBuzz](./program-structure/fizzbuzz.js)
 
-      3.[hashtag](./program-structure/hashtag.js)
+      3.[Hashtag](./program-structure/hashtag.js)
 
-      4.[loop-triangle](./program-structure/loop-triangle.js)
+      4.[Loop triangle](./program-structure/loop-triangle.js)
 
 
-2. Functions: [](./functions/function_If.js)
+2. Functions:
 
       1.[Minimum](./functions/min.js)
 
       2.[Recursion](./functions/iseven.js)
 
       3.[CountBs](./functions/countBs.js)
+
+3. Data Structures:
+
+      1.[The sum of a range](./data-structures/sumofrange.js)
 
 ## License
 
