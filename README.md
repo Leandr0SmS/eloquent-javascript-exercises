@@ -25,7 +25,7 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       2.[Recursion](./functions/iseven.js)
 
-      3.[CountBs](./functions/countBs.js)
+      3.[Bean counting](./functions/countBs.js)
 
 3. Data Structures:
 

@@ -1,22 +1,22 @@
 
 const countBs = function (string) {
-    let counter = 0;
+    let counterB = 0;
     for (let i =0; i < string.length; i++) {
         if (string[i] === 'B') {
-            counter ++;
+            counterB ++;
         }
     }
-    console.log(counter); 
+    return counterB
 }
 
 const countChar = function (string, n) {
     let counter = 0;
-    for (let i =0; i < string.length; i++) {
-        if (string[i] === n) {
+    for (let j =0; j < string.length; j++) {
+        if (string[j] === n) {
             counter ++;
         }
     }
-    console.log(counter); 
+    return counter
 }
 
 console.log(countBs("BBC"));
