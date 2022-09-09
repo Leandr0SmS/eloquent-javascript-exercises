@@ -1,11 +1,16 @@
 const min = function (x, y) {
     if (x < y) {
-       return console.log(x);
+       return x;
     } else if (x > y) {
-       return console.log(y);
+       return y;
     } else {
-       return console.log(x, y);
+       return x;
     }
 }
 
-min(4, 10);
+console.log(min(0, 10));
+// → 0
+console.log(min(0, -10));
+// → -10
+console.log(min((10, 10)))
+// → 10
