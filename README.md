@@ -10,14 +10,11 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
 1. Program Structure:
       
-      1.[Chezz](./program-structure/chezz.js)
+      1.[Loop triangle](./program-structure/loop-triangle.js)
 
       2.[FizzBuzz](./program-structure/fizzbuzz.js)
 
-      3.[Hashtag](./program-structure/hashtag.js)
-
-      4.[Loop triangle](./program-structure/loop-triangle.js)
-
+      3.[Chessboard](./program-structure/chezz.js)
 
 2. Functions:
 
