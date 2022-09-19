@@ -28,6 +28,8 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       1.[The sum of a range](./data-structures/sumofrange.js)
 
+      2.[Reversing an array](./data-structures/reversingarray.js)
+
 ## License
 
  Copyright 2022 Leandro Simões
