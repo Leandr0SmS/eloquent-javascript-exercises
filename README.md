@@ -10,25 +10,27 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
 1. Program Structure:
       
-      1.[Loop triangle](./program-structure/loop-triangle.js)
-
-      2.[FizzBuzz](./program-structure/fizzbuzz.js)
-
-      3.[Chessboard](./program-structure/chezz.js)
+      1.[ Loop triangle](./program-structure/loop-triangle.js)
+ 
+      2.[ FizzBuzz](./program-structure/fizzbuzz.js)
+ 
+      3.[ Chessboard](./program-structure/chezz.js)
 
 2. Functions:
 
-      1.[Minimum](./functions/min.js)
-
-      2.[Recursion](./functions/iseven.js)
-
-      3.[Bean counting](./functions/countBs.js)
+      1.[ Minimum](./functions/min.js)
+ 
+      2.[ Recursion](./functions/iseven.js)
+ 
+      3.[ Bean counting](./functions/countBs.js)
 
 3. Data Structures:
 
-      1.[The sum of a range](./data-structures/sumofrange.js)
+      1.[ The sum of a range](./data-structures/sumofrange.js)
 
-      2.[Reversing an array](./data-structures/reversingarray.js)
+      2.[ Reversing an array](./data-structures/reversingarray.js)
+
+      3.[ A List](./data-structures/alist.js)
 
 ## License
 
