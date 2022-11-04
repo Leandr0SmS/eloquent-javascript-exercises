@@ -34,6 +34,9 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       4.[ Deep comparison](./data-structures/deep-comparison.js)
 
+4. Higher-Order Functions:
+
+      1.[ Flattening]
 ## License
 
  Copyright 2022 Leandro Simões
