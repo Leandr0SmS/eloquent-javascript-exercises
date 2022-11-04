@@ -32,6 +32,8 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       3.[ A List](./data-structures/alist.js)
 
+      4.[ Deep comparison](./data-structures/deep-comparison.js)
+
 ## License
 
  Copyright 2022 Leandro Simões
