@@ -40,6 +40,8 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       2.[ Your own loop](./higher-order-functions/own-loop.js)
 
+      3.[ Everything](./higher-order-functions/everything.js)
+
 ## License
 
  Copyright 2022 Leandro Simões
