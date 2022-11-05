@@ -34,9 +34,11 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       4.[ Deep comparison](./data-structures/deep-comparison.js)
 
-4. Higher-Order Functions:
+4. Higher-Order-Functions:
 
       1.[ Flattening](./higher-order-functions/flattening.js)
+
+      2.[ Your own loop](./higher-order-functions/own-loop.js)
 
 ## License
 
