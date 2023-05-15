@@ -42,6 +42,8 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       3.[ Everything](./higher-order-functions/everything.js)
 
+      4.[ Dominant writing direction](./higher-order-functions/dominant-writing-direction.js)
+
 ## License
 
  Copyright 2022 Leandro Simões
