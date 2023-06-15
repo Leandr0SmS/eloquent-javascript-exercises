@@ -44,6 +44,10 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       4.[ Dominant writing direction](./higher-order-functions/dominant-writing-direction.js)
 
+5. The Secret Life of Objects:
+
+      1.[ A vector type](./objects/vectors.js)
+
 ## License
 
  Copyright 2022 Leandro Simões
