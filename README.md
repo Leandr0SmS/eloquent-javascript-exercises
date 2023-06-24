@@ -48,6 +48,8 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       1.[ A vector type](./objects/vectors.js)
 
+      2.[ Groups](./objects/groups.js)
+
 ## License
 
  Copyright 2022 Leandro Simões
