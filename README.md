@@ -50,6 +50,8 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       2.[ Groups](./objects/groups.js)
 
+      2.[ Iterable groups](./objects/iterable-groups.js)
+
 ## License
 
  Copyright 2022 Leandro Simões
