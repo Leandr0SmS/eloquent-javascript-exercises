@@ -52,6 +52,8 @@ I'am using this book to study programming and JavaScript. While i`am doing the e
 
       2.[ Iterable groups](./objects/iterable-groups.js)
 
+      3.[ Borrowing a method](./objects/borrowing-method.js)
+
 ## License
 
  Copyright 2022 Leandro Simões
